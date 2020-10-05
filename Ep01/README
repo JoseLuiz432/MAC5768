@@ -1,0 +1,16 @@
+###############################################################################################################################
+# Integrantes														      #
+# - José Luiz Maciel Pimenta | NUSP: 11896720                                                                                 #
+# - Luis Manrique | NUSP: 5779294              										      #
+# - Diego Pavan Soler | NUSP: 4607661											      #
+# - GIT - https://github.com/JoseLuiz432/MAC5768									      #
+# - DRIVE - https://drive.google.com/drive/folders/1bvwXFjPWP-Sdb5Lwh6zFd_vQs24mJ6_c?usp=sharing			      #
+###############################################################################################################################
+
+## Observações
+
+- O notebook EP_01.ipynb deve ser executado no Google Colab, caso executado de outra maneira, pode haver erro de compatibilidade. 
+Esses erros ocorrem na tabela utilizada com o DataFrame do Colab e no painel interativo da seleção das fotos para exibição no 
+formato MNILIST.
+
+

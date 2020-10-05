@@ -14,6 +14,7 @@ Eps da disciplina de Visão e Processamento de Imagens 2020-2
     * dataset - Base contendo as fotos cuja sua resolução está padronizada em HD;
       * dataset.csv - metadados utilizado pelo Google Colab
     * MetaDados - metadados das imagens no formato planilha do google sheet;
+    * Ep_01.ipynb - Notebook (Google Colab) do ep01
 
 ## EP01 - Descrição
 O EP1 consiste em:
