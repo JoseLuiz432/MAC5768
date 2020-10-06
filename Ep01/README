@@ -28,3 +28,6 @@ necessário utilizar  os comandos:
 
 - Se o forge não estiver habilitado, ele deve ser habilitado antes da criação da venv:
 	$ conda config --add channels conda-forge
+
+- Por fim, é necessário baixar a base de dados. Ela se encontra no DRIVE e pasta necessária é a "dataset", e ela deve ser colocada
+na mesma pasta do EP_01.ipynb.
