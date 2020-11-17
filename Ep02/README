@@ -1,0 +1,32 @@
+###############################################################################################################################
+# Integrantes														      #
+# - José Luiz Maciel Pimenta | NUSP: 11896720                                                                                 #
+# - Luis Manrique | NUSP: 5779294              										      #
+# - Diego Pavan Soler | NUSP: 4607661											      #
+# - GIT - https://github.com/JoseLuiz432/MAC5768									      #
+# - DRIVE - https://drive.google.com/drive/folders/1bvwXFjPWP-Sdb5Lwh6zFd_vQs24mJ6_c?usp=sharing			      #
+###############################################################################################################################
+
+## Observações
+
+- O notebook EP_02-1.ipynb e EP_02-2.ipynb devem ser executados no Google Colab, caso executados de outra maneira, pode haver 
+erro de compatibilidade. 
+
+- Se for necessário executar em um notebook local, para uma correta visualização das tabelas, gráficos e do painel interativo, é
+necessário utilizar  os comandos:
+	$ jupyter-lab clean
+
+	$ jupyter nbextension enable --py widgetsnbextension
+
+ 	$ jupyter labextension install @jupyter-widgets/jupyterlab-manager
+
+	$ jupyter lab build
+
+- O arquivo requeriments.txt é para criar uma venv no conda:
+	$ conda create --name <env> --file requeriments.txt
+
+- Se o forge não estiver habilitado, ele deve ser habilitado antes da criação da venv:
+	$ conda config --add channels conda-forge
+
+- Por fim, é necessário baixar a base de dados. Ela se encontra no DRIVE e pasta necessária é a "dataset", e ela deve ser colocada
+na mesma pasta do EP_02-1.ipynb e EP_02-2.ipynb.
