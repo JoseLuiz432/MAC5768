@@ -1,0 +1,19 @@
+###############################################################################################################################
+# Integrantes														      #
+# - José Luiz Maciel Pimenta | NUSP: 11896720                                                                                 #
+# - Luis Manrique | NUSP: 5779294              										      #
+# - Diego Pavan Soler | NUSP: 4607661											      #
+# - GIT - https://github.com/JoseLuiz432/MAC5768									      #
+# - DRIVE - https://drive.google.com/drive/folders/1bvwXFjPWP-Sdb5Lwh6zFd_vQs24mJ6_c?usp=sharing			      #
+###############################################################################################################################
+
+## Observações
+
+- O notebook EP_03.ipynb devem ser executados no Google Colab, caso executados de outra maneira, pode haver 
+erro de compatibilidade. 
+
+- O arquivo requeriments.txt traz todos os pacotes necessários para executar o notebook.
+
+Caso necessário executar de maneiro local o notebook:
+	- É necessário baixar a base de dados. Ela se encontra no DRIVE e pasta necessária é a "dataset", e ela deve ser colocada
+	na mesma pasta do EP_03.ipynb.
